@@ -69,6 +69,7 @@ while len(s) > 1:
     rang()
 #edge_labels=networkx.draw_networkx_edge_labels(g,pos=networkx.spring_layout(g),edge_labels=None,label_pos=1,clip_on=True)
 def pavuk():
-    networkx.draw(g,with_labels=True)
+    networkx.draw(g)
+    networkx.draw_networkx_labels(g, pos = networkx.spring_layout(g))
     plt.show()
 pavuk()
