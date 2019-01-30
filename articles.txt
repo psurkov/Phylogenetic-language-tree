@@ -47,7 +47,6 @@ mountain
 name
 night
 number
-order
 page
 paper
 pen
@@ -55,14 +54,13 @@ people
 person
 phone
 picture
-piece
 place
 plant
 problem
 product
 question
 river
-rock
+Rock (geology)
 room
 school
 science
@@ -73,10 +71,8 @@ side
 sister
 song
 sound
-south
-space
-state
-story
+Space
+Classical mechanics
 top
 tree
 watch
