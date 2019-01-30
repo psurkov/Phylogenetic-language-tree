@@ -35,7 +35,7 @@ def rang():
             k = 1
             summ = 0
             while k<len(i):
-                summ += ((i[k]-h[k]) * (i[k]-h[k]))
+                summ += ((i[k] - h[k]) * (i[k] - h[k]))
                 k += 1
             b.append((summ))
         r.append(b)
@@ -50,12 +50,12 @@ def rang():
         for x, dot in enumerate(line):
             if x !=0 and dot !=0 and dot <= t:
                 t = dot
-                tx = x-1
+                tx = x - 1
                 ty = y
     q = 1
-    a = ['(' +r[tx][0]+ '+' +r[ty][0]+ ')']
+    a = ['(' + r[tx][0] + '+' +r[ty][0] + ')']
     while q < len(s[tx]):
-        a.append((s[tx][q] + s[ty][q]) /2)
+        a.append((s[tx][q] + s[ty][q]) / 2)
         q += 1
     s.append(a)
     g.add_nodes_from([r[tx][0], r[ty][0], s[-1][0]])
