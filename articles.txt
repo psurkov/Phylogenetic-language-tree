@@ -2,22 +2,18 @@ air
 animal
 area
 bird
-body
+physical body
 book
-bottom
 boy
 brother
 car 
 child
 city
-class
 color
 country
 day
 dog
 door
-east
-example
 eye
 face
 family
@@ -50,7 +46,6 @@ mother
 mountain
 name
 night
-north
 number
 order
 page
@@ -82,13 +77,11 @@ south
 space
 state
 story
-thriller
 top
 tree
 watch
 water
 week
-west
 wind
 woman
 women
