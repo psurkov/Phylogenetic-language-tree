@@ -1,5 +1,3 @@
-en
-sv
 de
 fr
 nl
@@ -7,6 +5,4 @@ ru
 es
 it
 pl
-ja
-zh
-pt
+eo
