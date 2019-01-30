@@ -1,7 +1,7 @@
 from ete3 import Tree, TreeStyle
 from math import sqrt
 
-f = open('wikiData.txt', 'r')
+f = open('WikiData.txt', 'r')
 s = []
 tree = Tree()
 name2node = {}
@@ -27,9 +27,10 @@ for i in f:
 def rang():
     global s
     r = []
+    print(s)
     for i in s:
         b = [i[0]]
-        for h in s:    
+        for h in s:
             k = 1
             summ = 0
             while k < len(i):
@@ -61,8 +62,8 @@ def rang():
     name2node[new_name] = new_node
     name2node[r[tx][0]].detach()
     name2node[r[ty][0]].detach()
-    new_node.add_child(name2node[r[tx][0]])
-    new_node.add_child(name2node[r[ty][0]])
+    new_node.add_child(name2node[r[tx][0]], dist = t)
+    new_node.add_child(name2node[r[ty][0]], dist = t)
     
     s.pop(tx)
     s.pop(ty - 1)
