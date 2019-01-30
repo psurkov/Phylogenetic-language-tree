@@ -4,3 +4,9 @@ de
 fr
 nl
 ru
+es
+it
+pl
+ja
+zh
+pt

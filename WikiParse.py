@@ -6,22 +6,20 @@ def parse_page(w):
 
 articles = open('articles.txt', encoding='utf-8').read().splitlines()
 langs = open('langs.txt', encoding='utf-8').read().splitlines()
+res = {lang:([-100] * len(articles)) for lang in langs}
 wiki = wikipediaapi.Wikipedia('en')
-res = {}
 for ind, article in enumerate(articles):
     page = wiki.page(article)
     langlinks = page.langlinks
     langlinks['en'] = page
-    info_for_title = []
+    article_info = []
     for l in langs:
         if l in langlinks:
-            info_for_title.append(parse_page(langlinks[l]))
-        else:
-            print("Not found", article, l)
-    res[article] = info_for_title
+            res[l][ind] = parse_page(langlinks[l])
     print(ind + 1, '/', len(articles))
 
 
-out = open("wikiData.json", "w", encoding='utf-8')
-out.write(json.dumps({'langs' : langs, 'data' : res}))
+out = open("wikiData.txt", "w", encoding='utf-8')
+for key, value in res.items():
+    out.write(key + ' ' + ' '.join([str(i) for i in value]) + '\n')
 out.close()
