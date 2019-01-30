@@ -1,19 +1,18 @@
-import networkx
-import matplotlib.pyplot as plt
+from ete3 import Tree, TreeStyle
 from math import sqrt
 
-g = networkx.Graph()
-f = open('wikiData.txt','r')
+f = open('wikiData.txt', 'r')
 s = []
+tree = Tree()
+name2node = {}
 for i in f:
     a = ''
     k = 0
     b = []
-    print(i[k])
     while str(i[k]) != ' ':
         a += str(i[k])
-        print(a)
         k += 1
+    name2node[a] = tree.add_child(name = a)
     b.append(a)
     while k < len(i) - 1:
         c = ''
@@ -27,21 +26,17 @@ for i in f:
     s.append(b)
 def rang():
     global s
-    global g
     r = []
     for i in s:
         b = [i[0]]
         for h in s:    
             k = 1
             summ = 0
-            while k<len(i):
+            while k < len(i):
                 summ += ((i[k] - h[k]) * (i[k] - h[k]))
                 k += 1
             b.append((summ))
         r.append(b)
-    for i in r:
-        print(i)
-    print('_________')
     y = 0
     ty = 0
     tx = 2
@@ -53,23 +48,27 @@ def rang():
                 tx = x - 1
                 ty = y
     q = 1
-    a = ['(' + r[tx][0] + '+' +r[ty][0] + ')']
+    a = ['(' + r[tx][0] + '+' + r[ty][0] + ')']
+    
     while q < len(s[tx]):
         a.append((s[tx][q] + s[ty][q]) / 2)
         q += 1
     s.append(a)
-    g.add_nodes_from([r[tx][0], r[ty][0], s[-1][0]])
-    g.add_edges_from([(r[ty][0], s[-1][0],{'weight':t / 2}),(r[tx][0],s[-1][0], {'weight':t / 2})])
+    
+    new_name = a[0]
+    print(a[0])
+    new_node = tree.add_child(name = new_name)
+    name2node[new_name] = new_node
+    name2node[r[tx][0]].detach()
+    name2node[r[ty][0]].detach()
+    new_node.add_child(name2node[r[tx][0]])
+    new_node.add_child(name2node[r[ty][0]])
+    
     s.pop(tx)
     s.pop(ty - 1)
-    for i in s:
-        print(i)
-    print('_________')
 while len(s) > 1:
     rang()
 #edge_labels=networkx.draw_networkx_edge_labels(g,pos=networkx.spring_layout(g),edge_labels=None,label_pos=1,clip_on=True)
 def pavuk():
-    networkx.draw(g)
-    networkx.draw_networkx_labels(g, pos = networkx.spring_layout(g))
-    plt.show()
+	tree.show()
 pavuk()
