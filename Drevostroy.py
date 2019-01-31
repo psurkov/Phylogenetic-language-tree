@@ -50,9 +50,10 @@ def rang():
                 ty = y
     q = 1
     a = ['(' + r[tx][0] + '+' + r[ty][0] + ')']
-    
+    wtx = r[tx][0].count('+') + 1
+    wty = r[ty][0].count('+') + 1
     while q < len(s[tx]):
-        a.append((s[tx][q] + s[ty][q]) / 2)
+        a.append((s[tx][q] * wtx + s[ty][q] * wty) / (wtx + wty))
         q += 1
     s.append(a)
     
