@@ -30,8 +30,3 @@ tree = constructor.nj(dm)
 for i in tree.find_clades({"name": "Inner.*"}):
 	i.name = ""
 Phylo.draw(tree, branch_labels=lambda c: str(round(c.branch_length, 2)))
-'''
-net = Phylo.to_networkx(tree)
-networkx.draw(net)
-plt.show()
-'''

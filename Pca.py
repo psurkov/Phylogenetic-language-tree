@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot
 from sklearn.decomposition import PCA
 
-lines = open('data1.txt', 'r').read().splitlines()
+lines = open('data2.txt', 'r').read().splitlines()
 names = []
 X = np.zeros((len(lines), len(lines[0].split()) - 1))
 for i, line in enumerate(lines):

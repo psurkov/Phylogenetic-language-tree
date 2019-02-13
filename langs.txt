@@ -7,4 +7,14 @@ ru
 es
 it
 pl
+ja
+zh
+pt
+uk
+ar
+fi
+cs
+ro
+tr
 eo
+hy
