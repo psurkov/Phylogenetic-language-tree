@@ -17,4 +17,5 @@ Y = pca.fit_transform(X)
 matplotlib.pyplot.scatter(Y[:,0], Y[:,1])
 for label, x, y in zip(names, Y[:,0], Y[:,1]):
     matplotlib.pyplot.annotate( label, xy=(x, y), xytext=(-2, 2), textcoords='offset points', ha='right', va='bottom' )
+matplotlib.pyplot.axis('scaled')
 matplotlib.pyplot.show()
