@@ -21,12 +21,13 @@ while len(s1)>0:
     s1.pop()
     k=0
     while len(s)<5:
+        #можно не 5,а другое минимальное кол-во статей
         pars(wiki.page(s[k]))
         k+=1
     for i in s:
         s2.append(i)
 for i in s2:
-    #out.write(i)
+    out.write(i)
     print(i)
-#out.close()
+out.close()
     
