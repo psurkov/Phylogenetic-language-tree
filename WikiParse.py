@@ -27,7 +27,6 @@ for ind, article in enumerate(articles):
             res[l][ind] = parse_page(langlinks[l])
     print(ind + 1, '/', len(articles))
 
-
 out = open("wikiData.txt", "w", encoding='utf-8')
 for key, value in res.items():
     out.write(key + ' ' + ' '.join([str(i) for i in value]) + '\n')
