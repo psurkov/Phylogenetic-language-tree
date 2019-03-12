@@ -7,15 +7,15 @@ langs = open('langs.txt', encoding='utf-8').read().splitlines()
 res = {lang:([-100] * len(articles)) for lang in langs}
 wiki = wikipediaapi.Wikipedia('en')
 
-def parse_sections(p):
-    res = ''
+def parse_len_sections(p):
+    res = 0
     for s in p.sections:
         if s.title not in bad_section_titles:
-            res += s.title + '\n' + s.text + '\n' + parse_sections(s)
+            res += len(s.title) + len(s.text) + parse_len_sections(s)
     return res
 
 def parse_page(p):
-    return len(parse_sections(p))
+    return parse_len_sections(p)
     
 for ind, article in enumerate(articles):
     page = wiki.page(article)
