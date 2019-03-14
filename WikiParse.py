@@ -19,12 +19,15 @@ def parse_page(p):
     
 for ind, article in enumerate(articles):
     page = wiki.page(article)
-    langlinks = page.langlinks
-    langlinks['en'] = page
-    article_info = []
-    for l in langs:
-        if l in langlinks:
-            res[l][ind] = parse_page(langlinks[l])
+    try:
+        langlinks = page.langlinks
+        langlinks['en'] = page
+        article_info = []
+        for l in langs:
+            if l in langlinks:
+                res[l][ind] = parse_page(langlinks[l])
+    except BaseException:
+        print('Bad page', ind + 1)
     print(ind + 1, '/', len(articles))
 
 out = open("wikiData.txt", "w", encoding='utf-8')

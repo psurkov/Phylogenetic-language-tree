@@ -1,233 +1,1287 @@
-Istanbul
-Moscow
-London
-Saint Petersburg
-Ankara
+Abnormal psychology
+Abu Rayhan Biruni
+Aerial photography
+African Geographical Review
+Age of Discovery
+Agricultural geography
+Ahmed ibn Sahl al-Balkhi
+Al Idrisi
+Al-Biruni
+Alexander von Humboldt
+American Association of Geographers
+American Geographical Society
+Anaxagoras
+Anaximander
+Ancient Babylon
+Ancient Greece
+Ancient Greek
+Ancient Greek literature
+Ancient Rome
+Animal
+Anthropology
+Anthrozoology
+Anton Melik Geographical Institute
+Applied geography
+Archaeology
+Area studies
+Arnold Henry Guyot
+Art
+Assyria
+Astronomy
+Atlas
+Atmosphere
+Atmospheric science
+Azimuthal equidistant projection
+Babylon
+Babylonia
+Babylonian Map of the World
+Babylonian mathematics
+Baghdad
+Balkh
+Behavioral geography
+Behavioral neuroscience
+Behaviorism
 Berlin
-Madrid
-Kyiv
-Izmir
-Rome
+Biogeography
+Biological anthropology
+Biosphere
+Book:Geography
+Botany
+Bridgewater State University
+British Museum Magazine
+Built environment
+Business studies
+Cambridge University Press
+Carl O. Sauer
+Carl Ritter
+Cartography
+Celestial sphere
+Central place theory
+Christopher Columbus
+Climate
+Climatology
+Cluster analysis
+Coastal geography
+Cognitive psychology
+Cognitive science
+Communication
+Communication studies
+Community studies
+Computer science
+Cosmology
+Cosmos (Humboldt)
+Criminology
+Critical geography
+Cultural anthropology
+Cultural geography
+Cultural history
+Cultural studies
+Culture
+Culture theory
+Cycle of erosion
+Database
+David Harvey (geographer)
+Decline of the Roman Empire
+Delimitation
+Demographics
+Demography
+Development geography
+Development studies
+Developmental psychology
+Digital object identifier
+Doreen Massey (geographer)
+Earth
+Earth radius
+Earth science
+Earth system science
+Earth's atmosphere
+Earth's circumference
+Eckhard Unger
+Eclipse
+Ecology
+Economic geography
+Economic history
+Economics
+Edaphology
+Education
+Edward Soja
+Electromagnetic spectrum
+Ellen Churchill Semple
+Emergency management
+Emporia State University
+Environmental determinism
+Environmental geography
+Environmental management
+Environmental science
+Environmental social science
+Environmental studies
+Epidemiology
+Equirectangular projection
+Eratosthenes
+Ergonomics
+Ethnography
+Euphrates
+Europe
+Fan Chengda
+Fauna
+Feminist geography
+Figure of the Earth
+Flora
+Food studies
+Gazetteer
+Geisteswissenschaft
+Gender studies
+Geo-literacy
+Geobiology
+Geochronology
+Geodesy
+Geographer
+Geographia
+Geographic coordinate system
+Geographic information system
+Geographica
+Geographical Association
+Geographical Review
+Geography (disambiguation)
+Geography in medieval Islam
+Geoinformatics
+Geologic modelling
+Geology
+Geology of Mars
+Geology.
+Geomathematics
+Geomatics
+Geomorphology
+Geophysics
+Geopolitics
+Geosophy
+Geosphere
+Geostatistics
+Gerardus Mercator
+Glacial motion
+Glaciology
+Global positioning system
+Global studies
+Globalization
+Glossary of aerospace engineering
+Glossary of archaeology
+Glossary of architecture
+Glossary of areas of mathematics
+Glossary of artificial intelligence
+Glossary of astronomy
+Glossary of biology
+Glossary of botany
+Glossary of calculus
+Glossary of chemistry terms
+Glossary of civil engineering
+Glossary of clinical research
+Glossary of computer science
+Glossary of ecology
+Glossary of economics
+Glossary of electrical and electronics engineering
+Glossary of engineering
+Glossary of entomology terms
+Glossary of environmental science
+Glossary of genetics
+Glossary of geography terms
+Glossary of geology
+Glossary of machine vision
+Glossary of mechanical engineering
+Glossary of medicine
+Glossary of meteorology
+Glossary of physics
+Glossary of probability and statistics
+Glossary of psychiatry
+Glossary of robotics
+Glossary of speciation
+Glossary of structural engineering
+Gnomon
+Greek philosophy
+Greenwich meridian
+Halford Mackinder
+Harrison Number Four
+Health
+Health geography
+Help:Authority control
+Help:Introduction to referencing with Wiki Markup/1
+Help:Maintenance template removal
+Help:Template
+Hipparchus
+Historical Dictionary of Switzerland
+Historical geography
+History
+History of China
+History of cartography
+History of geography
+History of mathematics
+History of science
+History of technology
+Horizon
+House of Wisdom
+Human
+Human ecology
+Human geography
+Human science
+Humanities
+Hydrography
+Hydrology
+Hydrosphere
+Ibn Battuta
+Ibn Khaldun
+Immanuel Kant
+Index of geography articles
+Index of sociology articles
+Indian subcontinent
+Information science
+Institute of Geographical Information Systems
+Integrated Authority File
+Integrated geography
+Interaction
+International Geography Olympiad
+International Meridian Conference
+International Standard Book Number
+International Standard Serial Number
+International relations
+International studies
+Interpolation
+Interpreting
+JSTOR
+James Cook
+Jia Dan
+John Francon Williams
+John Harrison
+John Wiley & Sons
+Journal of Geography
+Jurisprudence
+Karachi Geographical Society
+Karl Butzer
+Khwarezm
+Land change modeling
+Land surface
+Land-use planning
+Landform
+Landscape architecture
+Landscape ecology
+Latitude
+Lauréat Prix International de Géographie Vautrin Lud
+Law
+Legal history
+Library of Congress Control Number
+Limnology
+Linear discriminant analysis
+Linguistics
+List of GIS software
+List of Graeco-Roman geographers
+List of academic disciplines
+List of geographers
+List of geographical societies
+List of geoscience organizations
+List of national legal systems
+List of social science journals
+Lithosphere
+Liu An
+Location theory
+Logistics
+London School of Economics
+Longitude
+Macroeconomics
+Mahmud al-Kashgari
+Map
+Marco Polo
+Mathematics
+Media studies
+Mercator projection
+Meteorology
+Michael Frank Goodchild
+Microeconomics
+Middle Ages
+Middle East
+Military history
+Minute of arc
+Mount Everest
+Mountain
+Muhammad al-Idrisi
+Muslim world
+National Archives and Records Administration
+National Diet Library
+National Geographic Society
+National mapping agency
+Natural environment
+New Zealand
+Nigel Thrift
+Non-parametric statistics
+Non-representational theory
+Numerical data
+Oceanography
+Oceanus
+Organism
+Outline of geography
+Outline of social science
+Palaeogeography
+Paleoclimatology
 Paris
-Bucharest
-Minsk
-Budapest
-Hamburg
-Warsaw
-Vienna
-Barcelona
-Stockholm
-Kharkiv
-Novosibirsk
-Bursa
-Yekaterinburg
-Nizhniy Novgorod
-Belgrade
-Munich
-Adana
-Milan
-Prague
-Copenhagen
-Sofia
-Samara
-Omsk
-Kazan
-Rostov-na-Donu
-Gaziantep
-Chelyabinsk
-Ufa
-Dnipro
-Donetsk
-Dublin
-Brussels
-Volgograd
-Odessa
-Birmingham
-Perm
-Koeln
-Naples
-Krasnoyarsk
-Konya
-Turin
-Liverpool
-Saratov
-Voronezh
-Valencia
-Zaporizhia
-Marseille
-Cankaya
-Lodz
-Antalya
-Krakow
-Riga
-Amsterdam
-Nottingham
-Bagcilar
-Lviv
-Sevilla
-Tol'yatti
-Zagreb
-Sarajevo
-Sheffield
-Zaragoza
-Athens
-Kryvyi Rih
-Frankfurt am Main
-Krasnodar
-Palermo
-Diyarbakir
-Ulyanovsk
-Chisinau
-Wroclaw
-Izhevsk
-Bristol
-Yaroslavl
-Barnaul
-Rotterdam
-Essen
-Kayseri
-Glasgow
-Stuttgart
-Dortmund
-Vladivostok
-Irkutsk
-UEskuedar
-Genoa
-Oslo
-Khabarovsk
-Khabarovsk Vtoroy
-Bahcelievler
-Umraniye
-Duesseldorf
-Goeteborg
-Poznan
-Malaga
-Helsinki
-Orenburg
-Bremen
-Vilnius
-Novokuznetsk
-Mersin
-Esenler
-Ryazan'
-Tyumen
-Lisbon
-Lipetsk
-Hannover
-Eskisehir
-Penza
-Mykolayiv
-Naberezhnyye Chelny
-Leicester
-Leipzig
-Kalininskiy
-Duisburg
-Astrakhan
-Nuernberg
-Makhachkala
-Dresden
-Tomsk
-Mariupol
-Gomel
-Kemerovo
-Skopje
-The Hague
-Lyon
-Tula
-Edinburgh
-Gdansk
-Antwerpen
-Karabaglar
-Kirov
-Leeds
-Luhansk
-Muratpasa
-Sanliurfa
-Cardiff
-Cheboksary
-Malatya
-Sultangazi
-Murcia
-Kaliningrad
-Toulouse
-Bryansk
-Maltepe
-Bratislava
-Ivanovo
-Erzurum
-Sevastopol
-Magnitogorsk
-Wandsbek
-Kursk
-Szczecin
-Palma
-Tver
-Khmelnytskyi
-Manchester
-Samsun
-Tallinn
-Bochum
-Las Palmas de Gran Canaria
-Nizhny Tagil
-Bochum-Hordel
-Makiyivka
-Kahramanmaras
-Tirana
-Kaunas
-Stoke-on-Trent
-Brno
-Mahilyow
-Bydgoszcz
-Bologna
-Stavropol'
-Atasehir
-Wuppertal
-Ulan-Ude
-Lublin
-Coventry
-Arkhangel'sk
-Bilbao
-Thessaloniki
-Vinnytsia
-Florence
-Belgorod
-Kurgan
-Vitebsk
-Zurich
-Plovdiv
-Kaluga
-Nice
-Krasnogvargeisky
-Simferopol
-Sunderland
-Alicante
-Bielefeld
-Cordoba
-Sochi
-Birkenhead
-Orel
-Volzhskiy
-Smolensk
-Kherson
-Murmansk
-Islington
-Reading
-Iasi
-Valladolid
-Poltava
-Vladikavkaz
-Hrodna
-Katowice
-Cluj-Napoca
-Cherepovets
-Timisoara
-Vologda
-Sisli
-Kingston upon Hull
-Preston
-Denizli
-Bonn
-Ostrava
-Varna
-Vladimir
-Chita
+Parmenides
+Participant observation
+Paul Vidal de la Blache
+Pedology (soil study)
+Pedosphere
+Pei Xiu
+Penguin Group
+Personality psychology
+Petroleum
+Philosophy and economics
+Philosophy of history
+Philosophy of psychology
+Philosophy of science
+Philosophy of social science
+Photogrammetry
+Physical geography
+Physical science
+Phytogeography
+Piri Reis
+Piri Reis map
+Plain
+Planet
+Planetary habitability
+Planetary science
+Plant
+Political ecology
+Political economy
+Political geography
+Political history
+Political science
+Politics
+Population geography
+Portal:Contents/Portals
+Portal:Geography
+Princeton University Press
+Psephology
+Psychology
+Ptolemy
+Ptolemy world map
+Public administration
+Public health
+Public policy
+Pythagoras
+Qualitative research
+Quantitative revolution
+Quaternary science
+Radhanath Sikdar
+Regional geography
+Regional planning
+Regional science
+Regionalisation
+Religion geography
+Remote sensing
+Resource management
+Roman Empire
+Royal Canadian Geographical Society
+Royal Danish Geographical Society
+Royal Geographical Society
+Rural sociology
+Russian Geographical Society
+Russian Geological Society
+Rutgers University
+SAGE Publications
+Satellite imagery
+Science
+Science studies
+Science, technology and society
+Settlement geography
+Sexagesimal
+Shen Kuo
+Social
+Social anthropology
+Social geography
+Social history
+Social psychology
+Social science
+Social work
+Sociology
+Sociology of the Internet
+Société de Géographie
+Soil
+Soil science
+Solar System
+Space
+Spatial analysis
+Spatial citizenship
+Spatial planning
+Spherical Earth
+Strabo
+Sustainability
+Synekism
+Tabula Rogeriana
+Technological change
+Template talk:Geography topics
+Template talk:Glossaries of science and engineering
+Template talk:Social sciences
+Template:Geography topics
+Template:Glossaries of science and engineering
+Template:Social sciences
+Template:Subject bar
+Temporal database
+Thales of Miletus
+Thessaloniki Science Center and Technology Museum
+Time geography
+Topography
+Toponymy
+Tourism geography
+Transport
+Transportation geography
+Trigonometry
+United States National Research Council
+University
+University of British Columbia Okanagan
+Urartu
+Urban geography
+Urban planning
+Urban sociology
+Valley
+Vegan studies
+Walter Christaller
+Walter Isard
+Water
+Wikipedia:Books
+Wikipedia:Protection policy
+Wikipedia:Templates for discussion/Log/2019 March 3
+Wikipedia:Verifiability
+Wikipedia:WikiProject Geography
+Wikipedia:Wikimedia sister projects
+William Hughes (geographer)
+William Morris Davis
+World
+World map
+Xu Xiake
+Yaqut al-Hamawi
+Yi-Fu Tuan
+Zhou Daguan
+Zoogeography
+Abnormality (behavior)
+Abraham Maslow
+Abuse
+Academia
+Adoption
+Affective neuroscience
+Affective science
+Albert Bandura
+American Psychiatric Association
+Amos Tversky
+Ancient Egyptians
+Ancient Greeks
+Ancient Romans
+Animal testing
+Animist
+Anomalistic psychology
+Anorexia nervosa
+Anxiety disorder
+Applied behavior analysis
+Applied psychology
+Archival research
+B. F. Skinner
+Basic science (psychology)
+Behavior
+Behavior therapy
+Behavioral epigenetics
+Behavioural genetics
+Bethlem Royal Hospital
+Big Five personality traits
+Biological
+Biopsychiatry controversy
+Brain
+Bruce McEwen
+Carl Jung
+Carl Rogers
+Case study
+Cathartic
+Children's Global Assessment Scale
+Clark L. Hull
+Classical conditioning
+Classification of mental disorders
+Clinical psychology
+Cognitive behavioral therapy
+Cognitive neuroscience
+Cognitivism (psychology)
+Community psychology
+Comparative psychology
+Consciousness
+Consumer behaviour
+Content analysis
+Counseling psychology
+Critical psychology
+Cross-cultural psychology
+Cultural psychology
+DSM-5 codes
+Daniel Kahneman
+David McClelland
+Deinstitutionalization
+Demons
+Diagnostic and Statistical Manual
+Diathesis-stress model
+Diathesis–stress model
+Differential psychology
+Donald O. Hebb
+Donald T. Campbell
+Dopamine
+Dorethea Dix
+Dreaming (journal)
+Ecological psychology
+Ed Diener
+Educational psychology
+Edward Thorndike
+Elliot Aronson
+Emotion
+Endel Tulving
+Environmental psychology
+Erik Erikson
+Ernest Hilgard
+Evolutionary psychology
+Exile
+Exorcism
+Experimental psychology
+Feminist psychology
+Forensic psychology
+Four humors
+Franz Mesmer
+GABA
+Galen
+Genetics
+Geography
+George Armitage Miller
+Gestalt psychology
+Global Assessment of Functioning
+Gordon Allport
+Hans Eysenck
+Harry Harlow
+Health psychology
+Hebrews
+Herbert A. Simon
+Hippocrates
+Hippocratic Corpus
+History of mental disorders
+History of psychology
+Human factors and ergonomics
+Human subject research
+Humanistic Psychology
+Humanistic psychology
+Hypnotic
+ICD
+Index of psychology articles
+Industrial and organizational psychology
+Insanity defense
+Intelligence
+International Classification of Diseases
+Interview (research)
+Ivan Pavlov
+J. P. Guilford
+Jean Piaget
+Jerome Bruner
+Jerome Kagan
+John B. Watson
+John Robert Anderson (psychologist)
+Joseph E. LeDoux
+King Henry VIII of England
+Kurt Lewin
+Larry Squire
+Lawrence Kohlberg
+Legal psychology
+Leon Festinger
+List of counseling topics
+List of important publications in psychology
+List of psychological research methods
+List of psychological schools
+List of psychologists
+List of psychology disciplines
+List of psychology organizations
+List of psychotherapies
+M'Naghten Rules
+Major Depressive Disorder
+Maladaptive behavior
+Malleus Maleficarum
+Martin Seligman
+Mary Jane Ward
+Mathematical psychology
+Media psychology
+Medical psychology
+Medieval
+Mental Health Act 1983
+Mental Health Act 2007
+Mental disorder
+Mental hygiene movement
+Mental illness
+Michael Posner (psychologist)
+Military psychology
+Mind-body dualism
+Mind-body problem
+Models of abnormality
+Moon
+Music psychology
+National Institute of Mental Health
+Neal E. Miller
+Negative transference
+Neurochemistry
+Neuroimaging
+Neuropsychology
+Noam Chomsky
+Norepinephrine
+Observation
+Occupational health psychology
+Operant conditioning
+Outline of abnormal psychology
+Outline of psychology
+Paracelsus
+Paradigm
+Paranormal
+Parapsychology
+Pastoral psychology
+Pathology
+Paul Ekman
+Perception
+Philippe Pinel
+Physician
+Planets
+Political psychology
+Portal:Psychology
+Positive psychology
+Psychiatric hospital
+Psychiatry
+Psychoanalytic
+Psychoanalytic theory
+Psycholinguistics
+Psychological
+Psychological development
+Psychological testing
+Psychologist
+Psychology of religion
+Psychometrics
+Psychopathology
+Psychophysics
+Psychophysiology
+Psychotherapy
+Psychotherapy (journal)
+PubMed Central
+PubMed Identifier
+Qualitative psychological research
+Quantitative psychological research
+Quantitative psychology
+RAND
+Rational emotive therapy
+Raymond Cattell
+Religious
+Renaissance era
+Richard Davidson
+Richard E. Nisbett
+Richard Lazarus
+Robert Zajonc
+Roger Brown (psychologist)
+Rona Moss-Morris
+Ronald C. Kessler
+Roy Baumeister
+School psychology
+Seasonal affective disorder
+Sects
+Self-actualization
+Self-report inventory
+Serotonin
+Shelley E. Taylor
+Sigmund Freud
+Social cognitive neuroscience
+Social context
+Society of Clinical Child & Adolescent Psychology
+Spirits
+Sport psychology
+Stanley Schachter
+Stars
+Structural model
+Structured Clinical Interview for DSM-5
+Subfields of psychology
+Suicidology
+Supernatural
+Survey methodology
+Susan Fiske
+Symptom
+Systems psychology
+Talk:Abnormal psychology
+Template talk:Psychology
+Template talk:Psychology sidebar
+Template:POV
+Template:Psychology
+Template:Psychology sidebar
+The Snake Pit
+Theoretical psychology
+Thought
+Timeline of psychology
+Torture
+Traffic psychology
+Trepanation
+Trepanning
+Ulric Neisser
+Walter Mischel
+Wikipedia:Article wizard
+Wikipedia:Citation needed
+Wikipedia:Citing sources
+Wikipedia:NPOV dispute
+Wikipedia:Neutral point of view
+Wikipedia:The Wikipedia Library
+Wikipedia:WikiProject Countering systemic bias
+Wilhelm Wundt
+William James
+Wisdom
+Witchcraft
+Witches
+World Health Organization
+Zero stroke
+'Abd al-'Aziz al-Wafa'i
+'Abd al-Hamīd ibn Turk
+9936 Al-Biruni
+Abbas ibn Firnas
+Abd al-Rahman al-Jadiri
+Abd al-Rahman al-Sufi
+Abd-al-Razzāq Samarqandī
+Abdullah ibn Mubarak
+Abolfadl Harawi
+Abu 'Ubayd al-Juzjani
+Abu Ali al-Hasan al-Marrakushi
+Abu Bakr al-Hassar
+Abu Dawood
+Abu Hafs Umar an-Nasafi
+Abu Hanifa
+Abu Hanifa Dinawari
+Abu Ishaq al-Kubunani
+Abu Mansur Muwaffaq
+Abu Mansur al-Baghdadi
+Abu Mansur al-Maturidi
+Abu Maʿshar
+Abu Muqri Mohammed al-Battiwi
+Abu Muslim
+Abu Nasr Mansur
+Abu Sa'id Gardezi
+Abu Said Gorgani
+Abu Saʿīd Gardēzī
+Abu Sulayman Sijistani
+Abu Zayd al-Balkhi
+Abu al-Abbas Iranshahri
+Abu al-Abbas al-Nabati
+Abu al-Hassan al-Amiri
+Abu al-Jud
+Abu al-Salt
+Abu al-Wafa' Buzjani
+Abu'l Abbas al-Hijazi
+Abu'l Hasan ibn Arfa Ra'a
+Abu'l-Fadl Bayhaqi
+Abu'l-Fida
+Abu'l-Hasan Isfaraini
+Abu'l-Hasan al-Uqlidisi
+Abu'l-Ma'ali Nasrallah
+Abu-Mahmud Khojandi
+Abul Ashba ibn Tammam
+Abū Ishāq Ibrāhīm al-Zarqālī
+Abū Ja'far al-Khāzin
+Abū Kāmil Shujāʿ ibn Aslam
+Abū Muhammad al-Hasan al-Hamdānī
+Abū Rayḥān al-Bīrūnī
+Abū Sahl al-Qūhī
+Abū al-Ḥasan ibn ʿAlī al-Qalaṣādī
+Abū al‐ʿUqūl
+Abū Ḥanīfa Dīnawarī
+Abū-Sa'īd Abul-Khayr
+Afghanistan
+Afrighid
+Afrighid dynasty
+Afrighids
+Afro-Eurasia
+Ahmad Hasan Dani
+Ahmad Ibn al-Qadi
+Ahmad Khani
+Ahmad Nahavandi
+Ahmad al-Buni
+Ahmad al-Qalqashandi
+Ahmad ibn 'Imad al-Din
+Ahmad ibn Fadlan
+Ahmad ibn Muhammad ibn Kathir al-Farghani
+Ahmad ibn Munim al-Abdari
+Ahmad ibn Mājid
+Ahmad ibn Nizam al-Mulk
+Ahmad ibn Rustah
+Ahmad ibn Yusuf
+Al Achsasi al Mouakket
+Al-Abbās ibn Said al-Jawharī
+Al-Adami
+Al-Ashraf Umar II
+Al-Azhar University
+Al-Baghawi
+Al-Bakri
+Al-Battani
+Al-Bayhaqi
+Al-Beroni University
+Al-Birjandi
+Al-Biruni (crater)
+Al-Bīrūnī
+Al-Dimashqi (geographer)
+Al-Fadl ibn Naubakht
+Al-Farabi
+Al-Ghazali
+Al-Hakim Nishapuri
+Al-Isfahani
+Al-Isfizari
+Al-Jaldaki
+Al-Jawbari
+Al-Juwayni
+Al-Karaji
+Al-Kharaqī
+Al-Khazini
+Al-Khwarizmi al-Khati
+Al-Kindi
+Al-Mahani
+Al-Marzuban
+Al-Masudi
+Al-Mu'izz ibn Badis
+Al-Mubashshir ibn Fatik
+Al-Muqaddasi
+Al-Muradi
+Al-Mustansiriya University
+Al-Nabarawi
+Al-Nasa'i
+Al-Nayrizi
+Al-Qabisi
+Al-Qushayri
+Al-Ramhormuzi
+Al-Saghani
+Al-Samawal al-Maghribi
+Al-Shahrastani
+Al-Sijzi
+Al-Simawi
+Al-Tamimi, the physician
+Al-Tha`labi
+Al-Tirmidhi
+Al-Tughrai
+Al-Wabkanawi
+Al-Zahrawi
+Al-Zamakhshari
+Al-Zuhri
+Al-Ḥajjāj ibn Yūsuf ibn Maṭar
+Alam al-Din al-Hanafi
+Alchemy and chemistry in medieval Islam
+Alembic
+Alfonsine tables
+Alhazen's problem
+Ali Qushji
+Ali al-Qari
+Ali ibn Isa al-Asturlabi
+Ali ibn Ridwan
+Ali-Shir Nava'i
+Alidade
+Almanac
+Almucantar
+Alī ibn Ahmad al-Nasawī
+Americas
+Amīn Rāzī
+Analog computer
+Ancient Greek astronomy
+Anno Domini
+Anthropomorphic
+Anvari
+Aperture
+Apogee
+Apollo 14
+Apsis
+Arabic
+Arabic language
+Aristotelian physics
+Aristotle
+Armillary sphere
+Artephius
+Aryabhata
+Asadi Tusi
+Asia
+Astrolabe
+Astrology
+Astrology in medieval Islam
+Astronomical clock
+Astronomy in the medieval Islamic world
+Astrophysics
+Ata-Malik Juvayni
+Athanor
+Athir al-Din al-Abhari
+Attar of Nishapur
+Avempace
+Averroes
+Avicenna
+Axial tilt
+Azimuth
+Aṣ-Ṣaidanānī
+Babylonian astronomy
+Bahāʾ al-dīn al-ʿĀmilī
+Banū Mūsā
+Bavandid
+Bibcode
+Biblioteca Nacional de España
+Bibliothèque nationale de France
+Book of Fixed Stars
+Book of Optics
+Book of Roads and Kingdoms (al-Bakrī)
+Book of Roads and Kingdoms (ibn Khordadbeh)
+Brahmagupta
+Brethren of Purity
+Buddhism
+Bukhara
+Burhan al-Din al-Marghinani
+Byzantine science
+Calid
+Celestial mechanics
+Celestial spheres
+Chemistry
+Chinese astronomy
+Christianity
+Chronologist
+Circular orbit
+Classical Hebrew
+Classical Syriac
+Common Era
+Comparative sociology
+Compass
+Compass rose
+Constantinople Observatory of Taqi ad-Din
+Cosmology in medieval Islam
+Daqiqi
+De Gradibus
+Deferent and epicycle
+Dhul-Nun al-Misri
+Dictionary of Scientific Biography
+Dioptra
+Domiyat
+Dynamics (physics)
+Earth's rotation
+Ecliptic
+Eduard Sachau
+Egyptian astronomy
+Elixir of life
+Elliptic orbit
+Encyclopedia of the Brethren of Purity
+Encyclopedia of the History of Arabic Science
+Equant
+Equatorial ring
+Equatorium
+Eurasia
+European science in the Middle Ages
+Evliya Çelebi
+Experiment
+Fakhr al-Din al-Razi
+Far side of the Moon
+Farrukhi Sistani
+Fei Xin
+Ferdowsi
+Fiqh
+Galaxy
+Geocentric model
+Geography (Ptolemy)
+Geography and cartography in medieval Islam
+George Saliba
+Ghaznavid dynasty
+Ghaznavids
+Ghazni
+Ghiyāth al-dīn Naqqāsh
+Globe
+Goharshad Begum
+Graph paper
+Gravitational potential energy
+Gravity
+Greater Khorasan
+Greek mathematics
+Habash al-Hasib al-Marwazi
+Haji Bektash Veli
+Hamdollah Mostowfi
+Harbi al-Himyari
+Hasan al-Rammah
+Haseb-i Tabari
+Heliocentrism
+Hinduism
+Hindus
+Historian
+History of geodesy
+Horary astrology
+House of Knowledge
+Huihui Lifa
+Hunayn ibn Ishaq
+Hydrodynamics
+Hydrostatics
+Ibn 'Adlan
+Ibn Ghazi al-Miknasi
+Ibn Hamza al-Maghribi
+Ibn Hawqal
+Ibn Ishaq al-Tunisi
+Ibn Jubayr
+Ibn Khordadbeh
+Ibn Muʿādh al-Jayyānī
+Ibn Rassam
+Ibn Sahl (mathematician)
+Ibn Said al-Maghribi
+Ibn Shuayb
+Ibn Sina
+Ibn Tufail
+Ibn Wahshiyya
+Ibn Yunus
+Ibn al-A'lam
+Ibn al-Adami
+Ibn al-Baitar
+Ibn al-Banna' al-Marrakushi
+Ibn al-Durayhim
+Ibn al-Faqih
+Ibn al-Haytham
+Ibn al-Kammad
+Ibn al-Majdi
+Ibn al-Nadim
+Ibn al-Nafis
+Ibn al-Saffar
+Ibn al-Samh
+Ibn al-Shatir
+Ibn al-Wafid
+Ibn al-Wardi
+Ibn al-Yasamin
+Ibn al‐Ha'im al‐Ishbili
+Ibn al‐Raqqam
+Ibrahim ibn Said al-Sahli
+Ibrahim ibn Sinan
+Ibrāhīm al-Fazārī
+India
+Indian astronomy
+Indian mathematics
+Indology
+Inertia
+International Standard Name Identifier
+Iran
+Iranian peoples
+Iranshahri
+Ishaq ibn Hunayn
+Islam
+Islamic Golden Age
+Islamic calendar
+Islamic geometric patterns
+Islamic philosophy
+Islamic science
+Islamic theology
+Ismail al-Jazari
+Istakhri
+Ja'far al-Sadiq
+Jabir ibn Aflah
+Jabir ibn Hayyan
+Jamal ad-Din (astronomer)
+Jami
+Jamshīd al-Kāshī
+Judaism
+Jābir ibn Hayyān
+Kaaba
+Kamāl al-Dīn al-Fārisī
+Kamāl ud-Dīn Behzād
+Kath (city)
+Khalid ibn Barmak
+Khashkhash Ibn Saeed Ibn Aswad
+Khiva
+Khwaja Abdullah Ansari
+Khwarazm
+Khwarezmian language
+Khālid ibn ʿAbd al‐Malik al‐Marwarrūdhī
+Kitab al-Kharaj
+Kitab al-Kimya
+Kitab al-Rawd al-Mitar
+Kitab al-Sab'een
+Kushyar Gilani
+LIBRIS
+Lin Nu
+Linguist
+List of Arabic star names
+List of Muslim astronomers
+Ma Huan
+Ma Yize
+Ma'munids
+Madrasa
+Magnifying glass
+Mahmud of Ghazni
+Maktab
+Mansur al-Kamili
+Maragha observatory
+Maragheh observatory
+Mariam al-Asturlabi
+Mariner's astrolabe
+Mashallah ibn Athari
+Maslama al-Majriti
+Maslamah Ibn Ahmad al-Majriti
+Mathematics in medieval Islam
+Mechanics
+Medicine
+Melkite
+Minhaj-i-Siraj
+Mir Ahmed Nasrallah Thattvi
+Miskawayh
+Mohammed al-Rudani
+Mohammed ibn Abdun al-Jabali
+Moonlight
+Mu'jam Al-Buldan
+Muhammad Aufi
+Muhammad Bal'ami
+Muhammad Baqir Yazdi
+Muhammad al-Baghdadi
+Muhammad al-Bukhari
+Muhammad ibn Abi Bakr al‐Farisi
+Muhammad ibn Musa al-Khwarizmi
+Muhammad ibn Tayfour Sajawandi
+Muhammad ibn Zakariya al-Razi
+Muhammed ibn Umail al-Tamimi
+Muhyi al-Dīn al-Maghribī
+Multiverse
+Muqatil ibn Sulayman
+Mural instrument
+Muslim ibn al-Hajjaj
+Muʾayyad al-Dīn al-ʿUrḍī
+Muḥammad ibn Ibrāhīm al-Fazārī
+Muḥammad ibn Mūsā al-Khwārizmī
+Na'im ibn Musa
+Najm al-Dīn al-Qazwīnī al-Kātibī
+Najm al‐Din al‐Misri
+Nandana
+Nasir Khusraw
+Nasir al-Din al-Tusi
+Nastulus
+National Library of Australia
+National Library of the Czech Republic
+Natural sciences
+Nazif ibn Yumn
+Nebula
+New York University Press
+Nizam al-Din Nishapuri
+Nizam al-Mulk
+Nizami Aruzi
+Nur ad-Din al-Bitruji
+Octant (instrument)
+Omar Khayyam
+Orbital eccentricity
+Pakistan
+Parallax
+Patanjali
+Persian Scholars Pavilion
+Persian language
+Pharmacopoeia
+Philosopher's stone
+Physics
+Picatrix
+Pind Dadan Khan
+Planisphere
+Polymath
+Precession
+Principles of Hindu Reckoning
+Qibla
+Quadrant (instrument)
+Quadrivium
+Qudama ibn Ja'far
+Qusta ibn Luqa
+Qutb al-Din al-Shirazi
+Qāḍī Zāda al-Rūmī
+Rabia Balkhi
+Rey, Iran
+Rhazes
+Richard Dunthorne
+Rihla
+Routledge
+Rudaki
+Rumi
+Russia
+S. Frederick Starr
+SNAC
+Saadi Shirazi
+Sahl ibn Bishr
+Said al-Andalusi
+Salah times
+Samanid
+Sanai
+Sanskrit
+Sarakhsi
+Schema for horizontal dials
+Scholars Pavilion
+Scientific method
+Sextant (astronomical)
+Shadow square
+Shams al-Din al-Khafri
+Shams al-Dīn Abū Abd Allāh al-Khalīlī
+Shams al-Dīn al-Samarqandī
+Shams al-Mo'ali Abol-hasan Ghaboos ibn Wushmgir
+Sharaf al-Dīn al-Ṭūsī
+Shaykh Tusi
+Shihab al-Din Muhammad al-Nasawi
+Sibt al-Maridini
+Sijzi
+Sinan ibn Thabit
+Sind ibn Ali
+Sinān ibn al-Fatḥ
+Siraj ud-Din Muhammad ibn Abd ur-Rashid Sajawandi
+South Asia
+South India
+Soviet Union
+Specific gravity
+Statics
+Sub-Saharan Africa
+Sublunary sphere
+Sulaiman Al Mahri
+Sulaiman al-Tajir
+Sullam al-sama'
+Sundial
+Sunlight
+Supernova
+Système universitaire de documentation
+Taftazani
+Tahir ibn Husayn
+Takwin
+Taqi ad-Din Muhammad ibn Ma'ruf
+Template talk:Astronomy in medieval Islam
+Template talk:Islamic alchemy and chemistry
+Template talk:Islamic geography
+Template talk:Islamic mathematics
+Template talk:People of Khorasan
+Template:Astronomy in medieval Islam
+Template:Islamic alchemy and chemistry
+Template:Islamic geography
+Template:Islamic mathematics
+Template:People of Khorasan
+Temporal finitism
+The Book of Healing
+The Compendious Book on Calculation by Completion and Balancing
+The Meadows of Gold
+The Remaining Signs of Past Centuries
+Thābit ibn Qurra
+Toledan Tables
+Trepidation (astronomy)
+Triangulation
+Triquetrum (astronomy)
+Turkmenistan
+Tusi couple
+Ulugh Beg
+Ulugh Beg Observatory
+United Nations Office in Vienna
+Universe
+University of Al Quaraouiyine
+University of Chicago Press
+Uzbekistan
+Vienna International Center
+Virtual International Authority File
+Wikipedia:External links
+Wikipedia:What Wikipedia is not
+Wikisource
+WorldCat Identities
+Ya'qubi
+Yahya ibn Abi Mansur
+Yahya ibn Khalid
+Yang Guangxian
+Yaʿqūb ibn Ṭāriq
+Yaʿīsh ibn Ibrāhīm al-Umawī
+Yusuf Al-Khuri
+Yusuf al-Mu'taman ibn Hud
+Zakariya al-Qazwini
+Zheng He
+Zij
+Zij-i Ilkhani
+Zij-i Sultani
+Ziryab
+Ziyarid
+Ziyarid dynasty
+Zoroastrianism
+ʿAbd al‐Wājid
+ʿAjā'ib al-makhlūqāt wa gharā'ib al-mawjūdāt
