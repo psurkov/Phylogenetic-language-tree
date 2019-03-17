@@ -26,7 +26,7 @@ for i in range(len(vecs)):
 print(dist)
 dm = DistanceMatrix(names = names, matrix = dist)
 constructor = DistanceTreeConstructor()
-tree = constructor.nj(dm)
+tree = constructor.upgma(dm)
 for i in tree.find_clades({"name": "Inner.*"}):
 	i.name = ""
 Phylo.draw(tree, branch_labels=lambda c: str(round(c.branch_length, 2)))
