@@ -2,6 +2,8 @@ import numpy as np
 import matplotlib.pyplot
 from sklearn.decomposition import PCA
 
+fill_none = int(input('Заменить отсутствующие на:'))
+
 lines = open('data2.txt', 'r').read().splitlines()
 names = []
 X = np.zeros((len(lines), len(lines[0].split()) - 1))
@@ -10,6 +12,8 @@ for i, line in enumerate(lines):
     l = line.split()[1:-1]
     for j in range(len(l)):
         X[i][j] = float(l[j])
+        if X[i][j] <= 0:
+            X[i][j] = fill_none
 
 pca = PCA(n_components=2)
 Y = pca.fit_transform(X)

@@ -4,6 +4,8 @@ from Bio import Phylo
 from Bio.Phylo.TreeConstruction import *
 from Bio.Phylo.TreeConstruction import DistanceTreeConstructor
 
+fill_none = int(input('Заменить отсутствующие на:'))
+
 def vec_dist(a, b):
     dst = 0
     for i in range(len(a)):
@@ -16,7 +18,7 @@ names = []
 vecs = []
 for line in f:
     names.append(line.split()[0])
-    vecs.append([float(i) for i in line.split()[1:-1]])
+    vecs.append([float(i) if float(i) > 0 else fill_none for i in line.split()[1:-1]])
 
 
 dist = [[0] * (i + 1) for i in range(len(vecs))]
