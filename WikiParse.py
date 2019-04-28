@@ -4,7 +4,7 @@ import wikipediaapi
 articles = open('articles.txt', encoding='utf-8').read().splitlines()
 bad_section_titles = set(open('bad_section_titles.txt', encoding='utf-8').read().splitlines())
 langs = open('langs.txt', encoding='utf-8').read().splitlines()
-res = {lang:([-100] * len(articles)) for lang in langs}
+res = {lang:([0] * len(articles)) for lang in langs}
 wiki = wikipediaapi.Wikipedia('en')
 
 def parse_len_sections(p):
