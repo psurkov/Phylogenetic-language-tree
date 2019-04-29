@@ -4,7 +4,7 @@ from Bio import Phylo
 from Bio.Phylo.TreeConstruction import *
 from Bio.Phylo.TreeConstruction import DistanceTreeConstructor
 
-fill_none = int(input('Заменить отсутствующие на:'))
+fill_none = float(input('Заменить отсутствующие на:'))
 
 def vec_dist(a, b):
     dst = 0
